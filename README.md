@@ -23,6 +23,10 @@ https://cad.onshape.com/documents/7c11ccdf4581fc8ba3c1760b/w/65d6d237f1c8a56a99d
 # Schematic for Gaming Console:
 <img width="853" height="599" alt="Screenshot 2026-11-21 22 36 28" src="https://github.com/user-attachments/assets/ab74e920-4dbf-4b8f-900b-79401b0573aa" />
 
+# Schematic for Animation Screen:
+<img width="845" height="594" alt="Screenshot 2026-11-22 13 19 41" src="https://github.com/user-attachments/assets/94890fed-c500-4d55-95ce-cc5f4c3f718a" />
+
+
 # Soldering Map From Tutorial:
 <img width="460" height="454" alt="Screenshot 2026-11-21 22 37 32" src="https://github.com/user-attachments/assets/2ce7a41f-b8c6-4026-b89e-ece2ebab0836" />
 
