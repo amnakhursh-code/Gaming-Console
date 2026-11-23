@@ -1,29 +1,22 @@
 # Raspberry Pi Zero 2W SoftWare and GPIO Setup
 
-#Operating System
+# Operating System
 OS: RetroPie (Raspberry Pi Zero 2W image)
 Gamepad Driver: GPIONext 
 Audio: PWM Audio output via GPIO 18 to SoundBoard
 
-#Button Pinout Mapping (Matched to KiCad Schematic
+# Button Pinout Mapping (Matched to KiCad Schematic
 
-Left Controls ('LeftControls1' - Labelled on KiCad Schematic)
-D-pad Up: GPIO26
-D-pad Down: GPIO13
-D-pad Left: GPIO06
-D-pad Right: GPIO05
-Start: GPIO25
-Select: GPIO 24
+Left Controls ('LeftControls1' - Labelled on KiCad Schematics include D-pad, Up, Down, Left, Right, Start, Select)
+GPIO02, GPIO03, GPIO04, GPIO27, GPIO22, Common 'GND' on Pin 1
 
-Right Controls ('RightControls1' - Labelled on KiCad Schematics)
-A Button: GPIO22
-B Button: GPIO27
-X Button: GPIO17
-Y Button: GPIO04
-L Button: GPIO03
-R Button: GPIO02
+Right Controls ('RightControls1' - Labelled on KiCad Schematics include A, B, Action Buttons)
+GPIO24, GPIO25, GPIO05, GPIO06, GPIO13, GPIO26
 
-Common Ground: All buttons share 'GND' 
+X Button: GPIO14
+Y Button: GPIO15
+L Button: GPI016
+R Button: GPIO07
 
 #Tutorial for Reference.
 Software setup is based on xblue's DIY Handheld Gaming Console Part 2 https://www.youtube.com/watch?v=y0wlGPaanzg 
