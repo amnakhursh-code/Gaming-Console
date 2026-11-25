@@ -24,7 +24,7 @@ So, on the provided tutorial, there are no XY and LR buttons that a usual GBA co
 <img width="1365" height="650" alt="Screenshot 2026-11-21 22 33 15" src="https://github.com/user-attachments/assets/37aa5c01-89ed-4a41-b135-589645a01b6b" />
 
 # Link To Onshape Assembly and Parts:
-https://cad.onshape.com/documents/7c11ccdf4581fc8ba3c1760b/w/65d6d237f1c8a56a99df817f/e/1c588ed4d3b974c6e0740dd0?renderMode=0&uiState=6b032caabd30e9a9daf80ed8
+https://cad.onshape.com/documents/7c11ccdf4581fc8ba3c1760b/w/65d6d237f1c8a56a99df817f/e/1c588ed4d3b974c6e0740dd0?renderMode=0&uiState=6b065bf276ae3b79ecf727a9
 
 # Schematic for Gaming Console:
 <img width="853" height="599" alt="Screenshot 2026-11-21 22 36 28" src="https://github.com/user-attachments/assets/ab74e920-4dbf-4b8f-900b-79401b0573aa" />
