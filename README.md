@@ -42,6 +42,12 @@ https://www.youtube.com/watch?v=jNqbHZRZVUk
 # Demo Video Tutorial For Software:
 https://www.youtube.com/watch?v=y0wlGPaanzg
 
+# Demo Tutorial on Github for Animation Screen.
+https://github.com/catherpiee/ESP32YAP/tree/main
+
+# Demo Tutorial on Github for Software for Animation Screen.
+https://github.com/derdacavga/IlI9341_esp32_s3_test/tree/main
+
 
 
 
