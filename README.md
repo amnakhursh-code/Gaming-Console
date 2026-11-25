@@ -31,7 +31,11 @@ https://cad.onshape.com/documents/7c11ccdf4581fc8ba3c1760b/w/65d6d237f1c8a56a99d
 <img width="460" height="454" alt="Screenshot 2026-11-21 22 37 32" src="https://github.com/user-attachments/assets/2ce7a41f-b8c6-4026-b89e-ece2ebab0836" />
 
 # What I Want It To Look Like:
-<img width="333" height="351" alt="Screenshot 2026-11-21 22 40 04" src="https://github.com/user-attachments/assets/03569f0c-54b6-4781-9590-51ac6e74bdb4" />
+<img width="333" height="351" alt="Screenshot 2026-11-21 22 40 04" src="https://github.com/user-attachments/assets/03569f0c
+  54b6-4781-9590-51ac6e74bdb4" />
+
+# Link to bom.csv
+https://github.com/amnakhursh-code/Gaming-Console/blob/main/bom.csv
 
 # Demo Tutorial On Raspberry Pi Website:
 https://forums.raspberrypi.com/viewtopic.php?t=377294 
