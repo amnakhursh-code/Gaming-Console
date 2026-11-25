@@ -8,6 +8,12 @@ This is a handheld gaming console that I will be 3d printing! It will be powered
 # Why I Made It.
 I decided on making a Gaming Console because I've always wanted one! I really enjoy making hardware (I'm not really good, I need set tutorials to make sure I can do it, but regardless I enjoy it!) I like when I make something and I can finally use, and especially when it is "home-made" it feels even more cool and makes me feel more confident about my skills! Overall, I've really wanted my own Gaming Console, and when I read that I could make my dream hardware project, this is what I thought would be the best thing to make because I will be able to use it after I make it too so it will be worth it!!!
 
+# Extra Button Installation:
+So, on the provided tutorial, there are no XY and LR buttons that a usual GBA controller would have. Infact, the controller board also does not have it, which is why I will be adding them myself. On the schematic for the gaming console, I included four buttons on the left bottom of the screen to represent them and where they connect to the GPIO pins. Since the controller board does not have "gold spots" for them, I will be buying tactile switches which will be wired to the Raspberry Pi separately. These are like mini push buttons that will be pressed when you play, and send input to the Raspberry pi that the button has been pressed. To cover it I'm using plastic covers so it looks normal. The links to both are in my bom.csv!
+
+# Tactile switches
+<img width="322" height="301" alt="Screenshot 2026-11-24 22 46 48" src="https://github.com/user-attachments/assets/4deae918-d0aa-44b6-8f3c-8af03a27c1c0" />
+
 # Hardware and Design Screenshots:
 
 # 3d Assembly on Onshape and Parts:
